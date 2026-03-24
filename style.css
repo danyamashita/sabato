@@ -87,6 +87,7 @@ nav {
   white-space: nowrap;
 }
 .nav-logo span { color: var(--accent); }
+.nav-logo-img { height: 40px; width: auto; display: block; }
 .nav-links {
   display: flex;
   align-items: center;
